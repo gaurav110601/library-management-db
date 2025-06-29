@@ -44,4 +44,4 @@ Feel free to fork this repository and submit pull requests for improvements or a
 
 ## Contact
 
-Created by Gaurav — [GitHub](https://github.com/gaurav110601)
+Created by Gaurav — [LinkedIn](https://linkedin.com/in/gaurav110601)
